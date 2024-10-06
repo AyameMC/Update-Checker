@@ -1,9 +1,9 @@
 {
-    "homepage": "https://docs.ayamemc.org/blog",
+    "homepage": "https://docs.ayamemc.org/",
     "1.21": {
-        "1.0.1": "Bug Fix Render"
+        "2.0.0": "Port to Architectury, Support NeoForge"
     },
     "promos": {
-        "1.21-latest": "1.0.1"
+        "1.21-latest": "2.0.0"
     }
 }
