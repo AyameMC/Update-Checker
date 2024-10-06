@@ -1,0 +1,9 @@
+{
+    "homepage": "https://docs.ayamemc.org/blog",
+    "1.21": {
+        "0.1.1": "Bug Fix Render"
+    },
+    "promos": {
+        "1.21-latest": "0.1.1"
+    }
+}
