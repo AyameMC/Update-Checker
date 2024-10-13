@@ -1,5 +1,5 @@
 {
-    "homepage": "https://docs.ayamemc.org/",
+    "homepage": "https://github.com/AyameMC/PaperDoll-Render",
     "1.21": {
         "4.0.0": "Port to Architectury, Support NeoForge"
     },
