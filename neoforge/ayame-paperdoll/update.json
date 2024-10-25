@@ -3,7 +3,11 @@
     "1.21": {
         "4.0.0": "Port to Architectury, Support NeoForge"
     },
+    "1.21.3": {
+        "5.0.0": "Update to Minecraft 1.21.3"
+    },
     "promos": {
         "1.21-latest": "4.0.0"
+        "1.21.3-latest": "5.0.0"
     }
 }
