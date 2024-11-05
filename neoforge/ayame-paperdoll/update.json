@@ -1,10 +1,10 @@
 {
     "homepage": "https://docs.ayamemc.org/blog/tags/ayame-paperdoll",
     "1.21": {
-        "4.0.0": "Port to Architectury, Support NeoForge"
+        "4.0.0": "Port to Architectury, support NeoForge, and more."
     },
     "1.21.1": {
-        "4.0.0": "Port to Architectury, Support NeoForge"
+        "4.0.0": "Port to Architectury, support NeoForge, and more."
     },
     "1.21.3": {
         "4.1.0": "Update to Minecraft 1.21.3"
